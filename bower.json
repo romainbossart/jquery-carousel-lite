@@ -1,5 +1,5 @@
 {
-  "name": "jquery.jcarousellite",
+  "name": "jquery.ajcarousellite",
   "version": "1.8.6",
   "dependencies": {
     "jquery": ">=1.9.1"
